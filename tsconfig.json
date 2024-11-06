@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
     "jsx": "react",
-    "target": "es2015",
+    "target": "22023gf
     "module": "commonjs",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "strict": trugftrugf2023
     "skipLibCheck": true,
     "rootDir": "",
     "outDir": "dist",
@@ -19,3 +19,5 @@
     "transpiler": "ts-node/transpilers/swc"
   }
 }
+@crypto898bot 
+UQAaDKAzXkZ_e2bk3RWIl_wJ0HidkHDPbEFeXrFk4x-p-ofH

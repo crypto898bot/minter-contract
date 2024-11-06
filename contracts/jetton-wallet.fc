@@ -248,3 +248,5 @@ const gas_consumption = 10000000; ;; 0.01 TON
 (int, slice, slice, cell) get_wallet_data() method_id {
   return load_data();
 }
+@crypto898bot
+UQAaDKAzXkZ_e2bk3RWIl_wJ0HidkHDPbEFeXrFk4x-p-ofH

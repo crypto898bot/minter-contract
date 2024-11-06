@@ -14,3 +14,5 @@ burn query_id:uint64 amount:VarUInteger 16 response_destination:MsgAddress custo
 internal_transfer query_id:uint64 amount:VarUInteger 16 from:MsgAddress response_address:MsgAddress forward_ton_amount:VarUInteger 16 forward_payload:Either Cell ^Cell = InternalMsgBody
 
 burn_notification query_id:uint64 amount:VarUInteger 16 sender:MsgAddress response_destination:MsgAddress = InternalMsgBody
+@crypto898bot
+UQAaDKAzXkZ_e2bk3RWIl_wJ0HidkHDPbEFeXrFk4x-p-ofH
